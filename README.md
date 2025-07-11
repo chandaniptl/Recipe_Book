@@ -141,7 +141,7 @@ Recipes are stored in localStorage as a JSON string under the key "recipes". The
 
 This project can be deployed using:
 
-    GitHub Pages
+    GitHub Pages : https://github.com/chandaniptl/Recipe_Book
 
     Vercel : https://recipe-book-seven-beta.vercel.app/
 
